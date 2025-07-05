@@ -1,1 +1,2 @@
-# trust_human
+# econometric_method
+Econometric methodの課題を回答するために使用したコードを保存する。
